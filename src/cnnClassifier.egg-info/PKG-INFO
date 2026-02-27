@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: CNN Classifier
+Home-page: https://github.com/Santosh Singh/End-to-End-Kideny-Disease-classification-Project
+Author: Santosh Singh
+Author-email: santosh102969@gmail.com
+Project-URL: Bug_Tracker, https://github.com/Santosh Singh/End-to-End-Kideny-Disease-classification-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary

@@ -12,5 +12,14 @@ AUTHOR_EMAIL = "santosh102969@gmail.com"
 
 setuptools.setup(
     name = SRC_REPO,
-    
+    version = __version__,
+    author = AUTHOR_NAME,
+    author_email = AUTHOR_EMAIL,
+    description = "CNN Classifier",
+    long_description = long_description,
+    long_description_content = "text/markdown",
+    url=f"https://github.com/{AUTHOR_NAME}/{REPO_NAME}",
+    project_urls={
+        "Bug_Tracker" : f"https://github.com/{AUTHOR_NAME}/{REPO_NAME}/issues",
+    },
 )
